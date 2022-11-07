@@ -15,3 +15,4 @@
 9. MongoDB
 10. Linguagem R
 11. Framework Pandas
+12. Jupyter Notebook
